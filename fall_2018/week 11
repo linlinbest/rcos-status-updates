@@ -1,0 +1,4 @@
+Last week, I was working on the image preloading. The view page in our website requires some time to load images whenever we switch to an 
+new image. The implementation of preloading make the load time a bit shorter. I also copied images with lower resolution. These images are
+used for loading images progressively, from lower resolution to higher resolution. What I plan to do in the following week is to implement
+the function of loading images progressively.
